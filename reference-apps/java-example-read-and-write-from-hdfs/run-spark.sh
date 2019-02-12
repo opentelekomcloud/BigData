@@ -1,0 +1,1 @@
+ spark-submit --master yarn --deploy-mode cluster  --class com.tsystems.otc.hdfsexamplenormal.HdfsMain target/example-java-read-and-write-from-hdfs-1.0-SNAPSHOT-jar-with-dependencies.jar
